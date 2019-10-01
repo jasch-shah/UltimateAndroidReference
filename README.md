@@ -636,6 +636,7 @@ If you are somebody who loves to engage with other fellow developers and surroun
 * [Tor Norbye](https://twitter.com/tornorbye) - Tor Norbye is the tech lead for Android Studio at Google
 * [Ty Smith](https://twitter.com/tsmith) - Android at @Uber Dev Platform - Google Developer Expert - @specializedtype investor - @sfaug and @droidconsf organizer - ex @twitter @fabric @evernote @zagat
 * [Zarah Dominguez](https://twitter.com/zarahjutz) - Having a love/hate affair with the little green 'droid at @domaincomau; Google Developer Expert for Android; a walking contradiction
+* [Ivan Goncharov](https://twitter.com/ivangrov?lang=en) - Aspiring AI Wizard at Day || Fiddle Player at Nights || Time-Traveling Ninja at Early Mornings || Do Youtube & Host "The AI Wizards Show" podcast
 
 ## Game Development
 
