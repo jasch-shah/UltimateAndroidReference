@@ -427,6 +427,7 @@ Kotlin, the new statically-typed programming language from JetBrains aims to mak
 * [Spek](https://github.com/spekframework/spek) - A specification framework for Kotlin
 
 
+
 ## Android Studio Shortcuts
 
 IDE shortcuts can really make your development workflow fast and smooth and Android Studio shines perfectly in this aspect. Ideally, you should make it a habit to not pick up the mouse to perform most of your actions and slowly migrate towards a mouseless-workflow. Here are some of the most useful shortcuts for you to get started.
@@ -535,6 +536,7 @@ If you want to keep yourself updated with all the latest Android development new
 * [Reddit's AndroidDev](https://www.reddit.com/r/androiddev) - News for Android developers with the who, what, where when and how of the Android community. Probably mostly the how
 * [Styling Android](https://blog.stylingandroid.com) - Learn perfecting your Android UI and UX development skills
 * [Vogella](http://www.vogella.com/tutorials/android.html) - Learn almost everything about Android development in an easy way
+* [Kotlin Resource](https://www.kotlinresources.com) - Learn Kotlin
 
 ## Books
 
